@@ -1,0 +1,11 @@
+{
+    "topNavText": "The source code for this blog is available on GitHub.",
+    "siteHeading": "Blog.",
+    "siteDesc": "A statically generated blog example using Next.js and Markdown.",
+    "subTestHead": "Dynamic Routing and Static Generation",
+    "subTextDate": "March 16, 2020",
+    "subText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.",
+    "subTextAuthor": "JJ Kasper",
+    "moreHeader": "More Stories"
+
+}
